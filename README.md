@@ -3,7 +3,7 @@
 I'm a passionate Flutter developer with 5 years of experience in developing cross-platform applications in Flutter& FlutterFlow.
 I use the best architecture style and best coding practices.
 
-💬 Ask me about anything related to Flutter applications.
+💬 Ask me anything related to Flutter applications.
 
 [My Portfolio](https://irfan-yusanif.github.io/Portfolio-flutter-deployed/)
 
