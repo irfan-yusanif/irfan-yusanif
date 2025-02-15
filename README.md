@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate Flutter developer with 5 years of experience in developing cross-platform applications in Flutter& FlutterFlow. (before that I was working in .Net)
+I'm a passionate Flutter developer with 5 years of experience in developing cross-platform applications in Flutter& FlutterFlow. (before that I was working in .Net with Azure and AWS for 10 years)
 I use the best architecture style and best coding practices.
 
 💬 Ask me anything related to Flutter applications.
